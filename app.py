@@ -58,6 +58,4 @@ def upload():
     return None
 
 if __name__ == '__main__':
-    http_server = WSGIServer(('', 5000), app)
-    http_server.serve_forever()
-    app.run()
+    app.run(debug=True, use_reloader=True)
