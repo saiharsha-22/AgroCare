@@ -1,6 +1,6 @@
 Flask==1.1.2
 gevent==1.4.0
-numpy==1.18.5
+numpy==1.19.2
 tensorflow==2.5.0
 Werkzeug==0.15.4
 scikit_image== 0.14.3
