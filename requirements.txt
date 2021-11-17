@@ -1,4 +1,6 @@
-Flask==1.1.1
-gunicorn==19.7.1
-numpy==1.13.1
-Jinja2==2.9.6
+scipy
+numpy
+tensorflow
+flask
+gunicorn
+flask_cors
